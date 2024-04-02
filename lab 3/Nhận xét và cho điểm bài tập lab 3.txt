@@ -1,0 +1,20 @@
+- Bài 1: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2. Sau khi tạo function không có hàm chính sử dụng
+Điểm bài tập: 0.75
+
+- Bài 2: sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2
+Điểm bài tập: 1.0
+
+- Bài 3:
+a) sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2
+b) các số in ra là số chính phương nhưng đề bài yêu cầu số chính phương từ 1 đến 1000
+c) sử dụng vòng lặp while, kiến thức vượt ngoài kiến thức lab 1, 2
+d) sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2
+e) sử dụng function, kiến thức vượt ngoài kiến thức lab 1, 2
+Điểm bài tập: 2.5
+
+- Bài 4:
+a) đây là tam giác vuông, đề bài yêu câu vẽ hình thoi
+b)
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 3: 4.25 - 2 (nộp muộn) = 2.25
