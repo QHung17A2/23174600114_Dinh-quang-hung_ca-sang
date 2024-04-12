@@ -1,0 +1,7 @@
+str=input("nhập chuỗi ký tự có độ dài hơn 10 ký tự: ")
+print("Chuỗi ký tự con từ vị trí thứ 2 đến vị trí thứ 8 là:",str[1:8])
+print("Chuôi ký tự gồm 5 ký tự kể từ vị trsi thứ 5 là:",str[4:9])
+print("Chuỗi ký tự từ cuối chuỗi gầm 3 kí tự là: ",str[-3:])
+print("Chuỗi chuyển đổi thành chữ thường là:",str.lower())
+print("Chuỗi chuyển đổi các ký tự trong chuỗi thành chữ hoa là: ",str.upper())
+print("Chuỗi đảo ngược là:",str[::-1])
